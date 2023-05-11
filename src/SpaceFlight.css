@@ -1,0 +1,37 @@
+.flights-list {
+    padding: 0;
+    list-style: none;
+  }
+  
+  .flights-list li {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .flights-list li h2 {
+    margin: 0 0 5px 0;
+    font-size:  18px;
+  
+  }
+  
+  .flights-list li a {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: blue;
+  }
+  
+  .flight_info {
+    display: flex;
+  }
+  
+  .flight_info img {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .flight-data {
+    display: inline-block;
+  }
+  
